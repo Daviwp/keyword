@@ -9,4 +9,4 @@
 	 <?php foreach($xml->CompleteSuggestion as $xmls): ?>
 		<li><?php echo $xmls->suggestion['data']; ?></li>
 	 <?php endforeach; ?>
-</ul>
+</ul> 
